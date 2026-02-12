@@ -1,11 +1,26 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# DLX Renovations
 
-  <h1>Built with AI Studio</h2>
+Elite multifaceted builders specializing in luxury home improvements, commercial rehabs, and custom construction with 15 years of industry excellence.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Repository
+This project is hosted at: [https://github.com/josegarciaSTK/deluxe-repo](https://github.com/josegarciaSTK/deluxe-repo)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- React Router DOM
 
-</div>
+## Getting Started
+To get this project running locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/josegarciaSTK/deluxe-repo.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd deluxe-repo
+   ```
+3. Install dependencies and start your development server.

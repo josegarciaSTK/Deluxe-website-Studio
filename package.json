@@ -1,0 +1,23 @@
+
+{
+  "name": "dlx-renovations",
+  "version": "1.0.0",
+  "description": "High-end multifaceted builders specializing in luxury home improvements.",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josegarciaSTK/deluxe-repo.git"
+  },
+  "keywords": [
+    "renovations",
+    "construction",
+    "luxury",
+    "react"
+  ],
+  "author": "DLX Renovations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josegarciaSTK/deluxe-repo/issues"
+  },
+  "homepage": "https://github.com/josegarciaSTK/deluxe-repo#readme"
+}
