@@ -1,23 +1,23 @@
-
 {
-  "name": "dlx-renovations",
+  "name": "deluxe-website-studio",
   "version": "1.0.0",
-  "description": "High-end multifaceted builders specializing in luxury home improvements.",
-  "main": "index.tsx",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/josegarciaSTK/deluxe-repo.git"
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
   },
-  "keywords": [
-    "renovations",
-    "construction",
-    "luxury",
-    "react"
-  ],
-  "author": "DLX Renovations",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/josegarciaSTK/deluxe-repo/issues"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.344.0"
   },
-  "homepage": "https://github.com/josegarciaSTK/deluxe-repo#readme"
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0"
+  }
 }
